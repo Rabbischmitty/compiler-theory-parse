@@ -12,4 +12,5 @@ This repo contains code from a school project that asked us to modify a skeleton
 ### Special Notes
 - If you are modifying any of the files, you must run `make` to compile your new changes
 - If you are modifying any `.cc` files, be sure to modify the corresponding `.h` files.
+- You can initiate a coding environment using VS Code using the `code .` command.
 - Included test cases can be accessed via the **tests** folder in the repo
