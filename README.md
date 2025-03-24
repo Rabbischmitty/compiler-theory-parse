@@ -15,7 +15,7 @@ This repo contains code from a school project that asked us to modify a skeleton
 - Allowed for zero or more `elsif clauses` represented in EBNF using braces
 - Added recognition for `fold` functions
 - Allowed for an optional, 0 or 1, variable declaration represented in EBNF using braces
-- Added functionality for 0 or more parameter declarations in the function header
+- Added functionality for 0 or more parameter declarations in the function header represented in EBNF using braces
 - Added functionality for the modulus and exponent binary operators
 - Added functionality for the unary minus operator
 - Added functionality for `|` and `!` operators
